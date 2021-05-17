@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, Platform } from 'react-native';
 
-function App() {
+export default function App() {
   return (
     <>
     </>
   );
 }
-
-export default App;
